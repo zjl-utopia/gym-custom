@@ -1,0 +1,5 @@
+gym_custom.egg-info
+gym_custom/__pycache__
+gym_custom/envs/__pycache__
+.DS_Store
+.idea
